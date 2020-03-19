@@ -1,0 +1,40 @@
+body{
+    background-image: url(img/fondo.jpg);
+
+    background-repeat: none;
+    background-size: cover;
+    margin: 0;
+}
+img{
+    align-items: center;
+    height: 100px;
+    width: 120px;
+    background-color: white;
+    margin-top: 15px;
+
+}
+div{
+    text-align: center;
+
+    color: white;
+}
+a{
+    margin-top: 30px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: gold;
+    font-size: 1.2em;
+}
+nav{
+    display: flex;
+    margin: 0;
+    justify-content: space-evenly;
+    color: gray;
+    margin-bottom: 50px;
+    background-color: lightslategray;
+    font-size: 2em;
+}
+nav p{
+    align-items: center;
+}
